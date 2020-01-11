@@ -21,5 +21,3 @@ stuff
 <small>2014</small>
 
 stuff
-
-test
